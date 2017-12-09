@@ -25,7 +25,7 @@ SECRET_KEY = 'y*2aq(_9w0^cj_j&)d=6r#n+u4sn$03f4blb(ealv1mhjrgv+x'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<kittrow>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'kittrow.pythonanywhere.com']
 
 
 # Application definition
